@@ -1,0 +1,4 @@
+﻿  task3.cpp
+C:\Users\Инна.000\source\repos\task3\task3\task3.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Инна.000\source\repos\task3\task3\task3.cpp(57): warning C4715: isInArea: значение возвращается не при всех путях выполнения
+  task3.vcxproj -> C:\Users\Инна.000\source\repos\lab2\Debug\task3.exe
